@@ -103,3 +103,14 @@
 }
 
 /* Media width*/
+
+@media (max-width:540px){
+    .box{
+        margin:30px 5px 30px 5px;
+    }
+    .container{
+        padding:2px;
+    }
+
+
+}
